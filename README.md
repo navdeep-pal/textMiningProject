@@ -1,0 +1,2 @@
+# textMiningProject
+Ongoing project
